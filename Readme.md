@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://rajaprerak.github.io/
+> (https://github.com/ParthShxrma/Portfolio)
 
 :star: Star me on GitHub — it helps!
 
@@ -10,15 +10,18 @@
 
 ### Website Preview
 #### Home Page
-<img src="website_images/HomePage.gif" width="900">
+<img src="<img width="1440" alt="home" src="https://github.com/user-attachments/assets/a3e8c06f-801f-47a0-b39e-e68bd78c3bbc" />
+" width="900">
 
 
 #### About Page
-<img src="website_images/AboutPage.png" width="900">
+<img src="<img width="1440" alt="about" src="https://github.com/user-attachments/assets/052d8180-a2a2-4cb6-acec-3d501d1f8d96" />
+" width="900">
 
 
 #### Projects Page
-<img src="website_images/ProjectPage.png" width="900">
+<img src="![Uploading projects.jpeg…]()
+" width="900">
   
 
 
